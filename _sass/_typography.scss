@@ -19,6 +19,15 @@ strong {
   color: var(--global-text-color);
 }
 
+.accent-text {
+  color: var(--global-theme-color);
+}
+
+.accent-strong {
+  color: var(--global-theme-color);
+  font-weight: 700;
+}
+
 hr {
   border-top: 1px solid var(--global-divider-color);
 }
@@ -67,7 +76,6 @@ blockquote {
     margin-bottom: 0;
   }
 
-  /* Tips, warnings, and dangers blockquotes */
   &.block-tip {
     border-color: var(--global-tip-block);
     background-color: var(--global-tip-block-bg);
