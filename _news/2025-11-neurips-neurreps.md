@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Paper accepted at NeurIPS NeurReps Workshop 2025.
+Paper accepted to the NeurIPS Workshop on Symmetry and Geometry in Neural Representations (NeurReps) 2025.
