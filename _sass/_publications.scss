@@ -98,6 +98,17 @@
         }
       }
 
+      .periodical.award-note {
+        color: var(--global-theme-color);
+        font-weight: 500;
+      }
+
+      .abstract-note {
+        margin-top: 0.45rem;
+        color: var(--global-text-color-light);
+        line-height: 1.55;
+      }
+
       .links {
         a.btn {
           color: var(--global-text-color);
