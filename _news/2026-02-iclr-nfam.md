@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Paper accepted to the ICLR Workshop on Neural Fields and Associative Memory (NFAM) 2026.
+Paper accepted to the ICLR Workshop on New Frontiers in Associative Memories (NFAM) 2026.

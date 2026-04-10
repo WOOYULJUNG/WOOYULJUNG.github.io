@@ -7,7 +7,7 @@ subtitle: >
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: wooyul-profile-2026.jpg
   image_circular: false
   more_info: >
     <p>Seoul National University</p>
