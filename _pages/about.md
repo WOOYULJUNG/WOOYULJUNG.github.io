@@ -7,7 +7,7 @@ subtitle: >
 
 profile:
   align: right
-  image: wooyul-profile-2026.jpg
+  image: wooyul-profile-2026-full.jpg
   image_circular: false
   more_info: >
     <p>Seoul National University</p>
@@ -30,9 +30,9 @@ latest_posts:
 
 I am an MS student in Artificial Intelligence at Seoul National University, where I am advised by [Prof. Byoung-Tak Zhang](https://bi.snu.ac.kr/~btzhang/). I am currently a visiting research student at the University of Toronto, and I also collaborate with LG Electronics' Toronto AI Lab. I received my B.S. in Electronic Engineering from Hanyang University in 2025.
 
-My long-term goal is to understand how <strong class="accent-strong">physically grounded algorithms in the brain</strong> can inspire <strong class="accent-strong">artificial intelligence</strong>. I am broadly interested in the space between <strong class="accent-strong">neuroscience, physics, and machine learning</strong>, and in bringing ideas from neural dynamics into AI systems.
+My long-term goal is to understand how **physically grounded algorithms in the brain** can inspire **artificial intelligence**. I am broadly interested in the space between **neuroscience, physics, and machine learning**, and in bringing ideas from neural dynamics into AI systems.
 
-I want to test these ideas through <strong class="accent-strong">action generation in interactive environments</strong>, especially in settings involving control and robotic manipulation. In that context, I am particularly fascinated by the notion of <strong class="accent-strong">attractors</strong> as a unifying language for memory, computation, and decision-making.
+I want to test these ideas through **action generation in interactive environments**, especially in settings involving control and robotic manipulation. In that context, I am particularly fascinated by the notion of **attractors** as a unifying language for memory, computation, and decision-making.
 
 **Research Interests**
 
