@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Started visiting research at the University of Toronto and joined LG Electronics Toronto AI Lab.
+Started visiting research at the University of Toronto.

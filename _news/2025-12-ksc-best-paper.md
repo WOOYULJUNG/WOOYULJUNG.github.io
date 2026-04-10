@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Presented "Modern Hopfield Networks with Latent-Space Retrieval" at KSC 2025 — <strong>Best Paper Award (Top 1%)</strong>.
+Presented "Modern Hopfield Networks with Latent-Space Retrieval" at KSC 2025 — **Best Paper Award (Top 1%)**.

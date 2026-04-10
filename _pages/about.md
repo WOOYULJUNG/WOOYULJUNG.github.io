@@ -3,7 +3,7 @@ layout: about
 title: About
 permalink: /
 subtitle: >
-  MS Student in AI at <a href="https://bi.snu.ac.kr/" target="_blank">Seoul National University</a>
+  MS Student in Artificial Intelligence at <a href="https://bi.snu.ac.kr/" target="_blank">Seoul National University</a>
 
 profile:
   align: right
@@ -28,7 +28,9 @@ latest_posts:
   limit: 3
 ---
 
-I am an MS student at Seoul National University advised by [Prof. Byoung-Tak Zhang](https://bi.snu.ac.kr/~btzhang/). I am currently a visiting research student at the University of Toronto and a researcher at LG Electronics' Toronto AI Lab. My research lies at the intersection of neural dynamics and machine learning, with a focus on associative memory, attractor dynamics, and recurrent computation for control and robotic manipulation.
+I am an MS student in Artificial Intelligence at Seoul National University, where I am advised by [Prof. Byoung-Tak Zhang](https://bi.snu.ac.kr/~btzhang/). I am currently a visiting research student at the University of Toronto, and I also collaborate with LG Electronics' Toronto AI Lab. I received my B.S. in Electronic Engineering from Hanyang University in 2025.
+
+My research interests lie at the intersection of neural dynamics and machine learning. I study associative memory and attractor dynamics through Hopfield and modern Hopfield networks, and I am interested in how recurrent neural computation can support efficient learning, control, and robotic manipulation. More broadly, I aim to understand how dynamical structure shapes representation, memory, and decision-making in neural systems.
 
 **Research Interests**
 

@@ -102,6 +102,14 @@
                 <li class="nav-item {% if page.url contains parent_link %}active{% endif %}">
                   {%- if p.permalink contains '://' -%}
                     {%- assign url = p.permalink -%}
+                  {%- elsif p.redirect contains '://' -%}
+                    {%- assign url = p.redirect -%}
+                  {%- elsif p.redirect -%}
+                    {%- assign url = p.redirect -%}
+                  {%- elsif p.cv_pdf contains '://' -%}
+                    {%- assign url = p.cv_pdf -%}
+                  {%- elsif p.cv_pdf -%}
+                    {%- assign url = p.cv_pdf -%}
                   {%- elsif p.permalink contains '/blog/' -%}
                     {%- assign url = '/blog/' -%}
                   {%- else -%}
