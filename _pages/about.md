@@ -7,7 +7,7 @@ subtitle: >
 
 profile:
   align: right
-  image: wooyul-profile-2026-full.jpg
+  image: wooyul-profile-picture2.jpg
   image_circular: false
   more_info: >
     <p>Seoul National University</p>
@@ -28,14 +28,10 @@ latest_posts:
   limit: 3
 ---
 
-I am an MS student in Artificial Intelligence at Seoul National University, where I am advised by [Prof. Byoung-Tak Zhang](https://bi.snu.ac.kr/~btzhang/). I am currently a visiting research student at the University of Toronto, and I also collaborate with LG Electronics' Toronto AI Lab. I received my B.S. in Electronic Engineering from Hanyang University in 2025.
+My long-term goal is to understand how **physically grounded algorithms in the brain** can inspire **artificial intelligence**. I approach this problem through the lens of **neural dynamics**, viewing intelligent systems as dynamical processes.
 
-My long-term goal is to understand how **physically grounded algorithms in the brain** can inspire **artificial intelligence**. I am broadly interested in the space between **neuroscience, physics, and machine learning**, and in bringing ideas from neural dynamics into AI systems.
+Within this framework, I study how recurrent and associative dynamics give rise to memory, representation, and generalization, with a particular focus on **attractor dynamics** in **Hopfield-style models**.
 
-I want to test these ideas through **action generation in interactive environments**, especially in settings involving control and robotic manipulation. In that context, I am particularly fascinated by the notion of **attractors** as a unifying language for memory, computation, and decision-making.
+I also investigate how such dynamical systems can be effectively trained and implemented, including optimization in recurrent neural networks and **biologically plausible learning mechanisms**.
 
-**Research Interests**
-
-- **Brain-Inspired Learning & Physical Algorithms**: biologically and physically grounded principles for learning and computation
-- **Neural Dynamics & Associative Memory**: attractor dynamics, Hopfield and modern Hopfield models, and dynamical systems analysis of recurrent networks
-- **Action, Control & Robotics**: recurrent dynamics for working memory, sequential decision-making, motor planning, and robotic manipulation
+More recently, I have been extending this perspective to **action generation in interactive environments**, including control and robotic manipulation, where internal dynamics directly shape behavior.
