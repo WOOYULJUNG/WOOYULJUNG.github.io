@@ -35,8 +35,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-started-ms-in-ai-at-seoul-national-university",
-          title: 'Started MS in AI at Seoul National University.',
+            },},{id: "news-started-as-an-undergraduate-research-intern-at-the-neuro-inspired-ai-lab-hanyang-university-advised-by-prof-kijung-yoon",
+          title: 'Started as an undergraduate research intern at the Neuro-Inspired AI Lab, Hanyang University,...',
+          description: "",
+          section: "News",},{id: "news-started-ms-in-ai-at-seoul-national-university-advised-by-prof-byoung-tak-zhang",
+          title: 'Started MS in AI at Seoul National University, advised by Prof. Byoung-Tak Zhang....',
           description: "",
           section: "News",},{id: "news-started-as-teaching-assistant-for-artificial-neural-networks-at-snu",
           title: 'Started as Teaching Assistant for Artificial Neural Networks at SNU.',
