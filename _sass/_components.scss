@@ -78,6 +78,20 @@ ul.task-list input[type="checkbox"] {
   margin-right: 1rem;
 }
 
+.about-page {
+  .clearfix {
+    margin-bottom: 2.5rem;
+  }
+
+  .about-section {
+    margin-top: 2.75rem;
+
+    h2 {
+      margin-bottom: 1rem;
+    }
+  }
+}
+
 @media (min-width: 576px) {
   .profile {
     width: 30%;

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Started MS in AI at Seoul National University, advised by Prof. Byoung-Tak Zhang.
+Started MS in AI at Seoul National University and joined <a href="https://bi.snu.ac.kr/" target="_blank" rel="noopener noreferrer">BI Lab</a>, advised by Prof. Byoung-Tak Zhang.

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Started as an undergraduate research intern at the Neuro-Inspired AI Lab, Hanyang University, advised by Prof. Kijung Yoon.
+Started as an undergraduate research intern at the <a href="https://yoonlab.hanyang.ac.kr/" target="_blank" rel="noopener noreferrer">Neuro-Inspired AI Lab</a>, Hanyang University, advised by Prof. Kijung Yoon.
