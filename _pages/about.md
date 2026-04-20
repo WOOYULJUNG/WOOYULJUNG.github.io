@@ -13,9 +13,10 @@ profile:
     <p>Seoul National University</p>
     <p>Seoul, South Korea</p>
     <p><a href="mailto:wjddnduf5730@snu.ac.kr">wjddnduf5730@snu.ac.kr</a></p>
+    <p><a href="https://scholar.google.com/citations?user=fvwzgQMAAAAJ&hl=ko" target="_blank" rel="noopener noreferrer">Google Scholar</a></p>
 
 selected_papers: true
-social: true
+social: false
 
 announcements:
   enabled: true
