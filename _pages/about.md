@@ -15,7 +15,7 @@ profile:
     <p><a href="mailto:wjddnduf5730@snu.ac.kr">wjddnduf5730@snu.ac.kr</a></p>
 
 selected_papers: true
-social: false
+social: true
 
 announcements:
   enabled: true
